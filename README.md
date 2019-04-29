@@ -18,5 +18,11 @@ These could be the talking points:
 *Tools that allow search hidden services and atomate the crawling process in Tor network
 
 # Tools:
-##Stem
+## Stem
 https://stem.torproject.org
+
+## Requests
+https://3.python-requests.org/
+
+## BeautifulSoup
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
