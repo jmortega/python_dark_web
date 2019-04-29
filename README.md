@@ -17,3 +17,6 @@ These could be the talking points:
 
 *Tools that allow search hidden services and atomate the crawling process in Tor network
 
+# Tools:
+##Stem
+https://stem.torproject.org
