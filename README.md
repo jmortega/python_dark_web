@@ -26,3 +26,22 @@ https://3.python-requests.org/
 
 ## BeautifulSoup
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+## Scripts execution
+
+### tor_descriptors.py
+<img src="tor_descriptors.png" alt="DARKWEB + PYTHON: DISCOVER, ANALYZE AND EXTRACT INFORMATION FROM HIDDEN SERVICES" height="256px" align="right"></a>
+
+### relay_connections.py
+<img src="relay_connections.png" alt="DARKWEB + PYTHON: DISCOVER, ANALYZE AND EXTRACT INFORMATION FROM HIDDEN SERVICES" height="256px" align="right"></a>
+
+### introduction_points.py
+<img src="introduction_points.png" alt="DARKWEB + PYTHON: DISCOVER, ANALYZE AND EXTRACT INFORMATION FROM HIDDEN SERVICES" height="256px" align="right"></a>
+
+### list_circuits.py
+<img src="list_circuits.png" alt="DARKWEB + PYTHON: DISCOVER, ANALYZE AND EXTRACT INFORMATION FROM HIDDEN SERVICES" height="256px" align="right"></a>
+
+## Videos scripts execution
+
+
+
