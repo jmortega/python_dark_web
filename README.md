@@ -43,5 +43,13 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 ## Videos scripts execution
 
+### Get information about Tor network with python stem
+<a href="https://www.youtube.com/watch?v=6Y6MNNb8f5w">
+<img src="python_stem.png" alt="DARKWEB + PYTHON: DISCOVER, ANALYZE AND EXTRACT INFORMATION FROM HIDDEN SERVICES" height="256px">
+</a>
 
+### Search hidden services in dark web with python
+<a href="https://www.youtube.com/watch?v=zBeWph2ry-M">
+<img src="tor_network.png" alt="DARKWEB + PYTHON: DISCOVER, ANALYZE AND EXTRACT INFORMATION FROM HIDDEN SERVICES" height="256px">
+</a>
 
